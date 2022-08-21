@@ -1,0 +1,14 @@
+# user 10 QPIS30.28-Q3-28-26-4-1-7 f0f57 release-keys
+- manufacturer: 
+- platform: trinket
+- codename: doha
+- flavor: user
+- release: 10
+- id: QPIS30.28-Q3-28-26-4-1-7
+- incremental: f0f57
+- tags: release-keys
+- fingerprint: motorola/doha_retail/doha:10/QPIS30.28-Q3-28-26-4-1-7/f0f57:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: user-10-QPIS30.28-Q3-28-26-4-1-7-f0f57-release-keys
+- repo: motorola_doha_dump

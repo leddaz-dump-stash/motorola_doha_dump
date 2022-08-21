@@ -1,0 +1,11 @@
+#
+# OEM_BUILD_PROPERTIES
+#
+ro.build.version.incremental=f0f57
+ro.build.version.ci=7
+ro.mot.build.guid=3bcb03a67ca0799
+ro.mot.base_buildid=QPI30.28-Q3-28-26-4-1/2f8cb
+ro.product.name=doha_reteu
+ro.mot.build.oem.product=doha_reteu
+ro.mot.build.customerid=retail
+ro.product.device=doha

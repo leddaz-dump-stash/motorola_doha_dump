@@ -1,0 +1,2 @@
+require version-baseband=4.3.1.c5-00045-NICOBAR_GEN_PACK-1.417214.3.431314.5
+require version-vendor=1632899260
